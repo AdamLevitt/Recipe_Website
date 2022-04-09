@@ -1,1 +1,1 @@
-# odin-recipe
+Recipe Project following the odin Tutorials
