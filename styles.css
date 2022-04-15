@@ -1,0 +1,30 @@
+.title {
+    color:rgb(137, 162, 197);
+    font-weight: bold;
+    text-align: left;
+    font-size: 50px;
+}
+
+.main {
+    height:auto;
+    width: 600px;
+}
+
+.button {
+    display: inline-block;
+    margin: 5px;
+    background: #ef3f05;
+    color: rgb(255, 255, 255);
+    font-size: 1.5em;
+    font-family: arial;
+    font-style: italic;
+    border-radius: 50px;
+    padding: 8px 16px;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+.button:hover {
+    background: #666;
+    color: #c1e1e0;
+}
