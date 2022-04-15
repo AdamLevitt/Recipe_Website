@@ -1,8 +1,8 @@
-.title {
+.titlemain {
     color:rgb(137, 162, 197);
     font-weight: bold;
     text-align: left;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 .main {
@@ -27,4 +27,16 @@
 .button:hover {
     background: #666;
     color: #c1e1e0;
+}
+
+.title {
+    color:rgb(137, 162, 197);
+    font-weight: bold;
+    text-align: left;
+    font-size: 50px;
+}
+
+.rimage {
+    height:auto;
+    width: 500px;;
 }
